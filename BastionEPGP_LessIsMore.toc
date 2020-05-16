@@ -1,0 +1,11 @@
+## Interface: 11304
+## Title: BastionEPGP - Less Is More Prices
+## Notes: Less Is More prices plugin for BastionEPGP
+## Author: Gnomling
+## Dependencies: BastionEPGP
+## Version: 1.0
+
+Libs\LibStub\LibStub.lua
+Libs\AceAddon-3.0\AceAddon-3.0.xml
+
+core.lua
